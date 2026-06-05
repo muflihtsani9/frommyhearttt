@@ -28,8 +28,8 @@ const playlist = [
   },
   {
     id:        'song2',
-    title:     'Song Title 2',
-    artist:    'Artist Name',
+    title:     'You’re Gonna Live Forever In Me',
+    artist:    'John Mayer',
     file:      'music/song2.mp3',
     cover:     'assets/music-cover/song2.jpg',
     startTime: 0,
